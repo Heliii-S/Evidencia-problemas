@@ -10,7 +10,7 @@ En este apartado se incluye el acceso directo a los problemas resueltos, el cód
 * **Problema:** 950. Reveal Cards In Increasing Order
 * **Plataforma:** [LeetCode - Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 * **Código:** El código se encuentra en este repositorio de GitHub.
-* **Explicación:** 🎥 [Enlace al video de explicación](AGREGA_AQUÍ_EL_LINK)
+* **Explicación:** 🎥 [Enlace al video de explicación](link irá aquí) //aún no hay link
 
 ---
 
@@ -18,7 +18,7 @@ En este apartado se incluye el acceso directo a los problemas resueltos, el cód
 * **Problema:** 1290. Convert Binary Number in a Linked List to Integer
 * **Plataforma:** [LeetCode - Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 * **Código:** El código se encuentra en este repositorio de GitHub.
-* **Explicación:** 🎥 [Enlace al video de explicación](AGREGA_AQUÍ_EL_LINK)
+* **Explicación:** 🎥 [Enlace al video de explicación](link irá aquí) //aún no hay link
 
 ---
 
@@ -26,5 +26,5 @@ En este apartado se incluye el acceso directo a los problemas resueltos, el cód
 * **Problema:** 1042. Flower Planting With No Adjacent
 * **Plataforma:** [LeetCode - Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)
 * **Código:** El código se encuentra en este repositorio de GitHub.
-* **Explicación:** 🎥 [Enlace al video de explicación](AGREGA_AQUÍ_EL_LINK)
+* **Explicación:** 🎥 [Enlace al video de explicación](link irá aquí) //aún no hay link
 
