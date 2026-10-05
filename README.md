@@ -12,18 +12,18 @@ Aquí se incluye el enlace a los problemas que se resolvieron, código que se re
     **ENLACE AL VIDEO DE EXPLICACIÓN:**
    
 ## 2. estructuras lineales
-    **Problema que quiero resolver:** 
+    **Problema que quiero resolver:** 1290. Convert Binary Number in a Linked List to Integer 
     
-    **ENLACE:**
+    **ENLACE:** https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
     
     El código se encontrará en este Github
     
     **ENLACE AL VIDEO DE EXPLICACIÓN:**
 
 ## 3. estructuras no lineales
-    **Problema que quiero resolver:** 
+    **Problema que quiero resolver:**  1042. Flower Planting With No Adjacent
     
-    **ENLACE:** 
+    **ENLACE:** https://leetcode.com/problems/flower-planting-with-no-adjacent/description/
     
     El código se encontrará en este Github
     
