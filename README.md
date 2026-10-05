@@ -10,7 +10,7 @@ En este apartado se incluye el acceso directo a los problemas resueltos, el cód
 * **Problema:** 950. Reveal Cards In Increasing Order
 * **Plataforma:** [LeetCode - Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
 * **Código:** El código se encuentra en este repositorio de GitHub y [aquí](/cards.cpp)
-* **Explicación:** 🎥 [Enlace al video de explicación]([link irá aquí](https://drive.google.com/file/d/1kSk_B-9YZoPHEi8E6VLsrqlLTMFluQSM/view?usp=sharing))
+* **Explicación:** 🎥 ([Enlace al video de explicación](https://drive.google.com/file/d/1kSk_B-9YZoPHEi8E6VLsrqlLTMFluQSM/view?usp=sharing))
 
 ---
 
