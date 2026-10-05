@@ -9,7 +9,7 @@ En este apartado se incluye el acceso directo a los problemas resueltos, el cód
 ### 1. Algoritmos de Ordenamiento
 * **Problema:** 950. Reveal Cards In Increasing Order
 * **Plataforma:** [LeetCode - Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
-* **Código:** El código se encuentra en este repositorio de GitHub. Aquí(/revealcrads.cpp)
+* **Código:** El código se encuentra en este repositorio de GitHub. Aquí(/cards.cpp)
 * **Explicación:** 🎥 [Enlace al video de explicación](link irá aquí) //aún no hay link
 
 ---
