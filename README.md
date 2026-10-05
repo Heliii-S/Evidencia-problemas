@@ -1,30 +1,30 @@
-# Evidencia-problemas
-Aquí se incluye el enlace a los problemas que se resolvieron, código que se realizó, y enlaces a los videos de explicación. 
+# 📑 Evidencia de Problemas
 
-# Problemas a resolver:
-## 1. algoritmos de ordenamiento
-    *Problema que quiero resolver:* 950. Reveal Cards In Increasing Order
-    
-    [Enlace al problema](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
-    
-    El código se encontrará en este Github
-    
-    *ENLACE AL VIDEO DE EXPLICACIÓN:*
-   
-## 2. estructuras lineales
-    *Problema que quiero resolver:* 1290. Convert Binary Number in a Linked List to Integer 
-    
-    [Enlace al problema](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
-    
-    El código se encontrará en este Github
-    
-    **ENLACE AL VIDEO DE EXPLICACIÓN:**
+En este apartado se incluye el acceso directo a los problemas resueltos, el código desarrollado y los enlaces a los videos con la explicación de cada solución.
 
-## 3. estructuras no lineales
-    *Problema que quiero resolver:*  1042. Flower Planting With No Adjacent
-    
-    [Enlace al problema](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)
-    
-    El código se encontrará en este Github
-    
-    **ENLACE AL VIDEO DE EXPLICACIÓN:**
+---
+
+## 🛠️ Problemas a Resolver
+
+### 1. Algoritmos de Ordenamiento
+* **Problema:** 950. Reveal Cards In Increasing Order
+* **Plataforma:** [LeetCode - Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+* **Código:** El código se encuentra en este repositorio de GitHub.
+* **Explicación:** 🎥 [Enlace al video de explicación](AGREGA_AQUÍ_EL_LINK)
+
+---
+
+### 2. Estructuras Lineales
+* **Problema:** 1290. Convert Binary Number in a Linked List to Integer
+* **Plataforma:** [LeetCode - Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+* **Código:** El código se encuentra en este repositorio de GitHub.
+* **Explicación:** 🎥 [Enlace al video de explicación](AGREGA_AQUÍ_EL_LINK)
+
+---
+
+### 3. Estructuras No Lineales
+* **Problema:** 1042. Flower Planting With No Adjacent
+* **Plataforma:** [LeetCode - Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)
+* **Código:** El código se encuentra en este repositorio de GitHub.
+* **Explicación:** 🎥 [Enlace al video de explicación](AGREGA_AQUÍ_EL_LINK)
+
