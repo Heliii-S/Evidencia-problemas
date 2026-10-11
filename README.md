@@ -18,7 +18,7 @@ En este apartado se incluye el acceso directo a los problemas resueltos, el cód
 * **Problema:** 1290. Convert Binary Number in a Linked List to Integer
 * **Plataforma:** [LeetCode - Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 * **Código:** El código se encuentra en este repositorio de GitHub y [aquí](/linkedlist.cpp)
-* **Explicación:** 🎥 [Enlace al video de explicación]((https://drive.google.com/file/d/1835Grs_VM2_9cjysEzR22SfIje3leR26/view?usp=sharing))
+* **Explicación:** 🎥 ([Enlace al video de explicación](https://drive.google.com/file/d/1835Grs_VM2_9cjysEzR22SfIje3leR26/view?usp=sharing))
 
 ---
 
